@@ -4,7 +4,6 @@
 <br>
 ### Julia Set
 <img src="https://github.com/AdithyaGallage/Fractal_Generator_and_TIC-TAC-TOE/blob/main/images/julia-set.png"  width="400" height="400">
-<br>
 <h3> Mandelbrot Set </h3>
 <img src="https://github.com/AdithyaGallage/Fractal_Generator_and_TIC-TAC-TOE/blob/main/images/mandelbrot-set.png"  width="400" height="400">
 <br>
