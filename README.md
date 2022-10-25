@@ -10,4 +10,4 @@
 <h2>Tic-Tac-Toe</h2>
 <p><b>Tic-Tac-Toe is a GUI app for playing the Tic-Tac-Toe game by two players</b></p>
 <img src="https://github.com/AdithyaGallage/Fractal_Generator_and_TIC-TAC-TOE/blob/main/images/tic_1.png"  width="300" height="400">
-<img src="https://github.com/AdithyaGallage/Fractal_Generator_and_TIC-TAC-TOE/blob/main/images/tic_2.png"  width="300" height="450">
+<img src="https://github.com/AdithyaGallage/Fractal_Generator_and_TIC-TAC-TOE/blob/main/images/tic_2.png"  width="300" height="500">
