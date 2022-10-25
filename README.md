@@ -5,5 +5,5 @@ Fractal generator is GUI app that generates Mandelbrot and Julia sets according 
 ### Julia Set
 <img src="https://github.com/AdithyaGallage/Fractal_Generator_and_TIC-TAC-TOE/blob/main/images/julia-set.png"  width="300" height="300">
 <br>
-### Mandelbrot Set
+<h3> Mandelbrot Set </h3>
 <img src="https://github.com/AdithyaGallage/Fractal_Generator_and_TIC-TAC-TOE/blob/main/images/mandelbrot-set.png"  width="300" height="300">
