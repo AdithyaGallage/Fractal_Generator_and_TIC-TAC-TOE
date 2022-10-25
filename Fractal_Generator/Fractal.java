@@ -52,7 +52,7 @@ class Fractal {
     }
 
     public static void UsageString6(){
-        System.out.println(ANSI_CYAN + "Usage: java Fractal Mandelbrot <Iterations>");
+        System.out.println(ANSI_CYAN + "Usage: java Fractal Julia <Iterations>");
         System.out.println("Example: java Fractal Julia 1000");
         System.out.println("Mean: For each point program will do 1000 iterations before deciding that it is in the set" + ANSI_RESET);
     }
